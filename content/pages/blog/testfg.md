@@ -13,5 +13,6 @@ seo:
 layout: post
 title: Mon titre
 thumb_image: images/about.jpg
+image: images/post-3-thumb.jpg
 ---
 dqdqsdsqdsqd
