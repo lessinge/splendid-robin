@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+title: Mon titre
 ---
 ## Lorem ipsum
 
