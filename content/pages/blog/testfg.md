@@ -1,5 +1,5 @@
 ---
-subtitle: lorem-ipsum
+subtitle: ceci est un sous titre
 date: '2021-04-28'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
