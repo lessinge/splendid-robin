@@ -12,5 +12,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 title: Mon titre
+thumb_image: images/about.jpg
 ---
 dqdqsdsqdsqd
